@@ -3,15 +3,17 @@ First Cryptocurrency
 
 This project is implemented to explore the basic concept of blockchain and cryptocurrency.I have created the 'needcoin' cryptocurrency using blockchain.
 It is very basic implementation where I explore the concept of :
+
+
   1) Blockchain
 	
-  2)Transactions
+  2) Transactions
 	
-  3)Consensus 
+  3) Consensus 
 	
-  4)Proof of work
+  4) Proof of work
 	
-  5)Decentralized the app
+  5) Decentralized the app
 
 Project cointains 4 files that needs to be run as python program , it will run as a flask application on  port 5000,5001,5002,5003
 
